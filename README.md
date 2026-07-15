@@ -145,7 +145,6 @@ Her katman, yalnızca kendi sorumluluk alanındaki görevleri üstlenmektedir.
 <img width="1919" height="944" alt="UIProducts" src="https://github.com/user-attachments/assets/c64f5e78-ba3e-4126-9e70-3ec023e7386b" />
 <img width="1919" height="941" alt="UIAbout" src="https://github.com/user-attachments/assets/dac9002f-eeff-475d-858b-235fe572c937" />
 <img width="1919" height="941" alt="UIContact" src="https://github.com/user-attachments/assets/643f2f2f-cd5c-4e48-96ea-94f76008d523" />
-<img width="1919" height="945" alt="UITestimonail" src="https://github.com/user-attachments/assets/1706f7ec-7a01-4df8-aac2-65f4be6bc8c0" />
 <img width="1917" height="941" alt="UIRecipes " src="https://github.com/user-attachments/assets/7d03b3ad-cc86-4a62-98ff-078d7d204ce2" />
 <img width="1919" height="943" alt="UIBasket" src="https://github.com/user-attachments/assets/3c25803e-4211-45aa-a588-0c48cb0e39bc" />
 <img width="1902" height="941" alt="adminLiveMessages" src="https://github.com/user-attachments/assets/17ec391c-24ed-4e9a-a0ed-77113403b175" />
